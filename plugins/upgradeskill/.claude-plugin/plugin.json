@@ -1,7 +1,7 @@
 {
   "name": "upgradeskill",
   "description": "저장소를 멈추지 않고 재귀적으로 개선한다 — 조사로 후보를 찾고, 계획해 구현·검증하고, 마지막에 이 스킬 자신을 고친다. 게이트 명령·배포 절차 같은 프로젝트별 값은 저장소의 .claude/upgrade-project.md 에서 읽는다.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "Apache-2.0",
   "author": {
     "name": "nabiTerm"
