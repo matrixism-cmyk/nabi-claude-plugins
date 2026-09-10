@@ -1,0 +1,14 @@
+{
+  "name": "nabi-plugins",
+  "owner": {
+    "name": "nabiTerm"
+  },
+  "description": "나비소리가 쓰는 클로드 코드 플러그인 모음.",
+  "plugins": [
+    {
+      "name": "upgradeskill",
+      "source": "./plugins/upgradeskill",
+      "description": "저장소를 멈추지 않고 재귀적으로 개선하는 배치 방법 — 조사·구현·검증·재귀 개선의 네 고리. 프로젝트별 값은 저장소의 .claude/upgrade-project.md 에서 읽는다."
+    }
+  ]
+}
